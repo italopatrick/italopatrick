@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=[https://www.instagram.com/USERNAME](https://www.instagram.com/italopatrick)">
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/USERNAME/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italopatrick&layout=compact)](https://github.com/italopatrick/github-readme-stats)
 
 
 
