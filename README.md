@@ -1,8 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Ítalo Patrick ....</h2>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h2 align="left">Olá 👋! Meu nome é Ítalo Patrick</h2>
 
 ###
 
@@ -17,6 +13,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif"  />
 
 ###
 
